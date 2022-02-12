@@ -1,7 +1,7 @@
 <br />
 # Hi there, I'm solomon - aka sacsbrainz👋 
 
-## I'm a Developer,Gamer and Teacher!!
+## I'm a Developer,Gamer and gadget enthusiast!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about web3
@@ -13,8 +13,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/shell/shell.png"></code>
 
 | <a href="https://github.com/sacsbrainz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sacsbrainz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sacsbrainz's github stats" /></a> | <a href="https://github.com/sacsbrainz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sacsbrainz&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
