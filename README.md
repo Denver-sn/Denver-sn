@@ -24,12 +24,6 @@
 #### Top Repositories
 
 
-<a href="https://github.com/sacsbrainz/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sacsbrainz&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/sacsbrainz/sacsbrainz.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sacsbrainz&repo=sacsbrainz.github.io&theme=buefy" />
-</a>
 
 <br />
 <br />
