@@ -18,8 +18,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="/assets/shell.jpg"></code>
 
-| <a href="https://github.com/sacsbrainz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sacsbrainz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sacsbrainz's github stats" /></a> | <a href="https://github.com/sacsbrainz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sacsbrainz&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/sacsbrainz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sacsbrainz&show_icons=true&include_all_commits=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&hide_border=true" alt="Sacsbrainz's github stats" /></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sacsbrainz&langs_count=10&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://twitter.com/ogabossj">
   <img align="right" alt="Sacsbrainz | Twitter" width="21px" src="https://raw.githubusercontent.com/sacsbrainz/sacsbrainz/master/assets/twitter.svg" />
