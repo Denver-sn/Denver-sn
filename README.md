@@ -18,15 +18,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="/assets/shell.jpg"></code>
 
-| <a href="https://github.com/sacsbrainz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sacsbrainz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sacsbrainz's github stats" /></a> | <a href="https://github.com/sacsbrainz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sacsbrainz&layout=compact&theme=buefy&hide_border=true" /></a> |
+
+![github stats](https://github-readme-stats.vercel.app/api?username=sacsbrainz&count_private=true&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sacsbrainz&layout=compact&langs_count=10)
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sacsbrainz)
+| <a href="https://github.com/sacsbrainz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sacsbrainz&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-#### Top Repositories
-
-
-
-<br />
-<br />
 
 <a href="https://twitter.com/ogabossj">
   <img align="right" alt="Sacsbrainz | Twitter" width="21px" src="https://raw.githubusercontent.com/sacsbrainz/sacsbrainz/master/assets/twitter.svg" />
