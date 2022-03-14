@@ -26,11 +26,11 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denver-sn&langs_count=10&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)](https://github.com/anuraghazra/github-readme-stats)
-[![wakatime](https://wakatime.com/badge/user/536a5aa9-8365-48c8-a223-740477973ea9/project/be49666e-1628-4b6b-afe3-db70681bb5dc.svg)](https://wakatime.com/badge/user/536a5aa9-8365-48c8-a223-740477973ea9/project/be49666e-1628-4b6b-afe3-db70681bb5dc)
 
-[![wakatime](https://wakatime.com/badge/user/7d9fb201-77dd-4cbf-9bf6-d51a814ad51e.svg)](https://wakatime.com/@7d9fb201-77dd-4cbf-9bf6-d51a814ad51e)
 
-<p><img src="https://wakatime.com/share/@sacsbrainz/c1743cc5-41ba-4b61-b3ea-0f9b12a70139.svg" alt="sacs stats" height="400"></p>
+[![wakatime](https://wakatime.com/badge/user/536a5aa9-8365-48c8-a223-740477973ea9.svg)](https://wakatime.com/@536a5aa9-8365-48c8-a223-740477973ea9)
+
+<p><img src="https://wakatime.com/share/@536a5aa9-8365-48c8-a223-740477973ea9/3581c4d4-29ae-4b1f-b565-1393cb9a7955.svg" alt="Denver stats" height="400"></p>
 
 
 
