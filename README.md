@@ -26,14 +26,12 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denver-sn&langs_count=10&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/536a5aa9-8365-48c8-a223-740477973ea9/project/be49666e-1628-4b6b-afe3-db70681bb5dc.svg)](https://wakatime.com/badge/user/536a5aa9-8365-48c8-a223-740477973ea9/project/be49666e-1628-4b6b-afe3-db70681bb5dc)
 
 [![wakatime](https://wakatime.com/badge/user/7d9fb201-77dd-4cbf-9bf6-d51a814ad51e.svg)](https://wakatime.com/@7d9fb201-77dd-4cbf-9bf6-d51a814ad51e)
 
 <p><img src="https://wakatime.com/share/@sacsbrainz/c1743cc5-41ba-4b61-b3ea-0f9b12a70139.svg" alt="sacs stats" height="400"></p>
 
-<p><img src="https://wakatime.com/share/@sacsbrainz/294eb386-3777-4cc8-bff2-7bd0136acc31.svg" alt="sacs Editor" height="400"></p>
-
-<p><img src="https://wakatime.com/share/@sacsbrainz/8011ce41-f995-4db9-b6f6-5caa6504e161.svg" alt="sacs OS" height="400"></p>
 
 
 <a href="https://twitter.com/ogabossj">
