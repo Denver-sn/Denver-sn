@@ -22,7 +22,7 @@
 <code><img height="20" src="/assets/shell.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
-
+<a href="https://github.com/sacsbrainz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Denver-sn&show_icons=true&include_all_commits=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&hide_border=true" alt="Denver-sn's github stats" /></a> 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denver-sn&langs_count=10&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)](https://github.com/anuraghazra/github-readme-stats)
