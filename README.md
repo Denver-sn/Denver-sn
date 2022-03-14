@@ -34,7 +34,7 @@
 
 
 
-<a href="https://twitter.com/Denver-sn">
+<a href="https://twitter.com/Denver_sn">
   <img align="right" alt="Denver | Twitter" width="21px" src="https://raw.githubusercontent.com/sacsbrainz/sacsbrainz/master/assets/twitter.svg" />
 </a>
 <a href="https://codesandbox.io/u/Denver-sn">
