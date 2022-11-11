@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Js, Django**
 
-- 💬 Ask me about **PHP, Selenium with Python, Telegram Bots**
+- 💬 Ask me about **PHP, React, Selenium with Python, Telegram Bots**
 
 - 📫 How to reach me **denver@denver-dev.com**
 
