@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/denver_sn" target="blank"><img src="https://img.shields.io/twitter/follow/denver_sn?logo=twitter&style=for-the-badge" alt="denver_sn" /></a> </p>
 
-- 🌱 I’m currently learning **React Js, Django**
+- 🌱 I’m currently learning **React Js, React Native, ExpressJs & mongoDB **
 
 - 💬 Ask me about **PHP, React, Selenium with Python, Telegram Bots**
 
