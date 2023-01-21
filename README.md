@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **denver@denver-dev.com**
 
-- ⚡ Fun fact **I think (NO i'm xD) funnnnyyy**
+- ⚡ Fun fact **I think (NO i'm) funnnnyyy xD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
