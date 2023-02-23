@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Denver (Romario)</h1>
+<h1 align="center">Hi 👋, I'm Romario Barro (DENVER) </h1>
 <h3 align="center">A passionate "Fullstack" developer from Senegal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denver-sn&label=Profile%20views&color=0e75b6&style=flat" alt="denver-sn" /> </p>
