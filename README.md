@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [DEXCHANGE](https://dexchange-transfert.com)
 
-- 🌱 I’m currently learning **react, react-native, flutter**
+- 🌱 I’m currently learning **react, NextJS react-native, flutter**
 
-- 💬 Ask me about **react, react-native, expressjs, php & also Selenium(PYHTON)**
+- 💬 Ask me about **react, Nextjs react-native, expressjs, php & also Selenium(PYHTON)**
 
 - 📫 How to reach me **denver@denver-dev.com**
 
